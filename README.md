@@ -1,4 +1,4 @@
-# react-native-navbar
+# react-native-navbars
 
 > 顶部导航组件,分为左(返回),中(标题),右(分享),三部分填充内容.一般与navigator配合使用
 > 主要是继承概念,代码规整，方便代码多次重用,对于性能暂无更好的优化方案
@@ -7,14 +7,14 @@
 
 ## Install
 #### Ios
-npm install --save react-native-navbar
+npm install --save react-native-navbars
 #### android
 暂无
 
 ## Example
 
 ```
-import Headnavbar from 'react-native-navbar';
+import Headnavbar from 'react-native-navbars';
 
 export default class extends Component {
     render(){
