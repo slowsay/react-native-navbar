@@ -3,7 +3,7 @@
 > 顶部导航组件,分为左(返回),中(标题),右(分享),三部分填充内容.一般与navigator配合使用
 > 主要是继承概念,代码规整，方便代码多次重用,对于性能暂无更好的优化方案
 
-[![NPM](https://nodei.co/npm/react-native-navbar.png)](https://nodei.co/npm/react-native-navbar/)
+[![NPM](https://nodei.co/npm/react-native-navbars.png)](https://nodei.co/npm/react-native-navbars/)
 
 ## Install
 #### Ios
