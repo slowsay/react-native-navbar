@@ -58,4 +58,4 @@ export default class extends Component {
 
 ## Version
 
-- v0.0.1 update
+- v0.0.2 update
